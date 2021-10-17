@@ -1,5 +1,9 @@
 # Credit_risk_analysis
+
+
 ![png_Ch17p1](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p1.PNG)
+
+
 
 
 
@@ -14,13 +18,21 @@
 
 
 
+
+
 ![png_Ch17p3](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p3.PNG)
 
 
 
 
 
+
+
 ![png_Ch17p4](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p4.PNG)
+
+
+
+
 
 
 
