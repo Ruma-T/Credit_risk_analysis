@@ -30,7 +30,7 @@ We used imbalance-learn and scikit-learn libraries to build and evaluate models 
 
 ### Naive Random Oversampling
 
-The balanced accuracy score is 65.12%.
+The balanced accuracy score is 65.14%.
 
 ![png_Ch17p4](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p4.PNG)
 
@@ -42,7 +42,7 @@ The balanced accuracy score is 65.12%.
 
 ### SMOTE Oversampling
 
-The balanced accuracy score is 51.79%.
+The balanced accuracy score is 62.67%.
 ![png_Ch17p5](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p5.PNG)
 
 
@@ -50,7 +50,7 @@ The balanced accuracy score is 51.79%.
 
 
 ### Undersampling
-The balanced accuracy score is 62.67%.
+The balanced accuracy score is 51.79%.
 ![png_Ch17p6](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p6.PNG)
 
 
@@ -58,12 +58,12 @@ The balanced accuracy score is 62.67%.
 
 
 ### Balanced Random Forest Classifier
-The balanced accuracy score is 62.67%.
+The balanced accuracy score is 78.78%.
 
 ![png_Ch17p2](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p2.PNG)
 
 
-The balanced accuracy score is 95.54%.
+The balanced accuracy score is 92.54%.
 ![png_Ch17p3](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p3.PNG)
 
 ### Summary  3
