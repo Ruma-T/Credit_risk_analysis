@@ -63,7 +63,7 @@ The balanced accuracy score is 62.67%.
 ![png_Ch17p2](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p2.PNG)
 
 
-The balanced accuracy score is 62.67%.
+The balanced accuracy score is 95.54%.
 ![png_Ch17p3](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p3.PNG)
 
 ### Summary  3
