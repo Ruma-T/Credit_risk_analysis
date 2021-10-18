@@ -66,8 +66,7 @@ The balanced accuracy score is 78.78%.
 The balanced accuracy score is 92.54%.
 ![png_Ch17p3](https://github.com/Ruma-T/Credit_risk_analysis/blob/main/Ch17p3.PNG)
 
-### Summary  3
-All the models used to perform the credit risk analysis show weak precision in determining if a credit risk is high.
-The Ensemble models brought a lot more improvment specially on the sensitivity of the high risk credits.
-The EasyEnsembleClassifier model shows a recall of 92% so it detects almost all high risk credit. On another hand, with a low precision, a lot of low risk credits are still falsely detected as high risk which would penalize the bank's credit strategy and infer on its revenue by missing those business opportunities.
-For those reasons I would not recommend the bank to use any of these models to predict credit risk.
+### Summary  
+If credit risk is high, all the models show weak precision .
+For Easy Ensemble AdaBoost Classifier,balance accuray score is 92%  which includes all high risk credit. High risk precision is 7% only. 
+I don't recommend these models.
